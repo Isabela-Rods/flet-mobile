@@ -74,4 +74,4 @@ def main(page: ft.Page):
     atualizar_lista() # Contrói a lista inicial (Ao abrir)
 
 # Roda a aplicação
-ft.app(target=main)
+ft.run(main)

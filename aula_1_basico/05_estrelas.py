@@ -38,4 +38,4 @@ def main(page: ft.Page):
         nota,
     )
 
-ft.app(target=main)
+ft.run(main)

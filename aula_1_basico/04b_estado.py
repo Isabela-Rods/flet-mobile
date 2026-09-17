@@ -56,5 +56,4 @@ def main(page:ft.Page):
     construir_tela() # Chama a tela pela primeira vez
 
 # Inicia o aplicativo
-ft.app(target=main)
-
+ft.run(main)

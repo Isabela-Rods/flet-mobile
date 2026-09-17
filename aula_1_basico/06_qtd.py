@@ -75,4 +75,4 @@ def main(page: ft.Page):
     )
     atualizar_lista()
 
-ft.app(target=main)
+ft.run(main)
